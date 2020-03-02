@@ -1,0 +1,2 @@
+# SpalshPage
+non-reactive
